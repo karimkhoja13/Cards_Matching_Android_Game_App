@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardView">
+    <attr name="frontsrc" format="reference"></attr>
+    <attr name="backsrc" format="reference"></attr>
+    <attr name="flipped" format="boolean"></attr>
+    </declare-styleable>
+    <declare-styleable name="Timer">
+        <attr name="text" format="string"></attr>
+    </declare-styleable>
+</resources>

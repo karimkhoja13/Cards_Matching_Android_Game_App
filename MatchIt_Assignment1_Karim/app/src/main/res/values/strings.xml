@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MatchIt_Karim</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_about">\nMobile App Assignment 1 \n
+        \t Author : Karim A. Khoja \n
+        \t Started On : September 30, 2014 \n
+        \t Completed On : October 11, 2014 \n
+        \t Course Name : Mobile Application Development \n \n
+        How to play the game? \n
+        \t 1 Click on a card to flip it \n
+        \t 2 Match two cards of the same type to score points \n
+        \t 3 Whenever you don\'t make a match you lose one try \n
+        \t 4 Try matching all the cards in the shortest time possible and get to the top of the score board with a high score</string>
+    <string name="title_activity_about">About Activity</string>
+    <string name="title_activity_scores">Scores Activity</string>
+    <string name="title_activity_game">Game Activity</string>
+
+</resources>
